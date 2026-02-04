@@ -1,5 +1,7 @@
 
 
+![Screenshot_20260204_113745_Gallery](https://github.com/user-attachments/assets/e83fa565-0743-4992-a6be-75507f1dc10a)
+
 
 # Morgan Pierrefeu
 
@@ -48,7 +50,9 @@ Développement d'outils de prédiction de marché (Analyse de données & Sentime
 ##  Expérience & Leadership
 
 **Micro-entrepreneur (Services & Paysagisme)** | *En cours*
-* Objectif : Financement autonome de projets techniques.
+* Objectif : Financement autonome de projets t!
+
+echniques.
 * Action : Vente directe, intervention, facturation.
 
 **Ambassadeur EPITA**
