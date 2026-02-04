@@ -13,7 +13,7 @@
 
 ## 🎯 Objectif
 **Recherche de stage technique (Data/Dev) ou opportunités commerciales.**
-*Disponible dès [Mois] 2026.*
+*Disponible dès juin 2026.*
 
 ---
 
