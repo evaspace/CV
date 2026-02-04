@@ -11,12 +11,13 @@
 
 ##  Synthèse
 Profil orienté performance et cash-flow. Capacité à combiner l'analyse technique (C/Python/Data) et l'exécution terrain (Vente/Entrepreneuriat). Opérationnel en autonomie totale.
+////
 
 ---
 
 ##  Projets Techniques (Portfolio)
 
-### pticars Calculator
+### Opticars Calculator
 Comparateur automobile basé sur des formules quantitatives (Rapport Poids/Puissance, Grip, Accélération).
 - **Stack :** Python (Flask), SQLite/MySQL, HTML/CSS
 - **Focus :** Algorithmique, Fullstack
@@ -25,6 +26,9 @@ Comparateur automobile basé sur des formules quantitatives (Rapport Poids/Puiss
 Développement d'outils de prédiction de marché (Analyse de données & Sentiment News).
 - **Objectif :** Monétisation
 - **Focus :** Data Science, R&D
+
+### Outils d'automatisation 
+- **Outils technique** disponible gratuitement sur Github pour répondre à des besoins pratiques 
 
 ---
 
@@ -41,18 +45,16 @@ Développement d'outils de prédiction de marché (Analyse de données & Sentime
 
 ## Compétences & Soft Skills
 
-* **Vente & Business :** Closing immédiat, Prospection, Gestion de cycle complet (Micro-entreprise).
-* **Organisation :** Gestion systémique du TDAH (Organisation/Exécution), Discipline stoïcienne.
+* **Vente & Business :** Closing immédiat, Prospection, Gestion de cycle complet (Micro-entreprise). 
+* **Organisation :** Gestion systémique du TDAH (Organisation/Exécution), Discipline stoïcienne, Obsessions de l'efficacité. 
 * **Langues :** Anglais opérationnel (Vocabulaire technique, TOEIC ~750), Français.
 
 ---
 
 ##  Expérience & Leadership
 
-**Micro-entrepreneur (Services & Paysagisme)** | *En cours*
-* Objectif : Financement autonome de projets t!
-
-echniques.
+**Micro-entrepreneur (Services & Paysagisme)** | *En cours* - 2024 
+* Objectif : Financement autonome de projets techniques.
 * Action : Vente directe, intervention, facturation.
 
 **Ambassadeur EPITA**
@@ -61,9 +63,9 @@ echniques.
 
 ## Parcours & Formation
 
-* **EPITA (Lyon) :** Cycle Ingénieur (L1) - Algo , C, Python, Unix.
-* **Erasmus :** Adaptation en environnement multiculturel.
-* **Baccalauréat Général :** Validation modules optionnels.
+* **EPITA (Lyon) :** Cycle Prepa Ingénieur  - Algo , C, Python(flask, sélénium), Unix (git ). - 2025 -> 2030
+* **Erasmus :** Gymnasium Riedberg - Frankfurt (Germany) Adaptation en environnement multiculturel.  -2025
+* **Baccalauréat Général :** Mathématiques- Informatique - 2023 -> 2025
 
 ---
 
