@@ -3,8 +3,8 @@
 
 # Morgan Pierrefeu
 
-> **Étudiant Ingénieur (EPITA) & Entrepreneur**
-> *Profil hybride : Rigueur ingénieur & Pragmatisme commercial.*
+> **Étudiant Ingénieur (EPITA) & Développeur Python**
+> *Profil : Automatisation de processus & Efficacité opérationnelle.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morgan-pierrefeu)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:morgan@pierref.eu)
@@ -12,90 +12,81 @@
 ---
 
 ## 🎯 Objectif
-**Recherche de stage technique (Data/Dev) ou opportunités commerciales.**
-*Disponible dès juin 2026.*
+**Stage technique (6 semaines) | Juin – Août 2026**
+Disponibilité horaire étendue.
+Objectif : Intégrer une équipe technique (DSI, Innovation, Data) pour automatiser les tâches répétitives (Scripting/IA) et optimiser les workflows de données.
 
 ---
 
-## 🏗 Synthèse
-Profil orienté performance et cash-flow. Capacité à combiner l'analyse technique (C/Python/Data) et l'exécution terrain (Vente/Entrepreneuriat). Opérationnel en autonomie totale.
+## 🛠 Compétences Techniques
 
----
-
-## 🏆 Performance & Discipline (Preuves de concept)
-
-La "discipline stoïcienne" n'est pas un concept abstrait, mais une pratique quotidienne mesurable.
-
-| Discipline | Métrique / Performance | Niveau |
-| :--- | :--- | :--- |
-| **Athlétisme (Sprint)** | **200m : 22.77s** / 400m : <50s | Qualification Régionale (Toutes disciplines) |
-| **Calisthenics (Force)** | **Tractions 1 bras** (One-arm pull-up) / 30 Tractions strictes | Élite |
-| **Powerlifting** | **100kg** Développé Couché (Bench Press) | Intermédiaire/Avancé |
-
----
-
-## 🛠 Projets Techniques (Portfolio)
-
-### 🏎️ Opticars Calculator
-Comparateur automobile basé sur des formules quantitatives (Rapport Poids/Puissance, Grip, Accélération).
-- **Stack :** Python (Flask), SQLite/MySQL, HTML/CSS
-- **Focus :** Algorithmique, Fullstack
-
-### 📈 Finance & IA (R&D)
-Développement d'outils de prédiction de marché (Analyse de données & Sentiment News).
-- **Objectif :** Monétisation
-- **Focus :** Data Science, R&D
-
-### ⚙️ Outils d'automatisation
-Scripts et outils techniques disponibles en open-source pour répondre à des besoins d'efficacité immédiate.
-- **Dépôt :** Disponible sur ce GitHub.
-
----
-
-## 💻 Stack Technique
-
-| Domaine | Technologies |
+| Domaine | Technologies & Outils |
 | :--- | :--- |
-| **Langages** | C, Python (Flask, Selenium), SQL, Bash |
-| **Système** | Linux (Debian), Unix, Git |
-| **Data / IA** | Modélisation BDD, Prompt Engineering |
+| **Développement** | **Python** (Flask, Selenium, Pandas), C, Bash |
+| **Data & BDD** | SQL (MySQL/SQLite), Web Scraping, Analyse de données |
+| **IA & Productivité** | **Prompt Engineering Avancé** (Optimisation LLM), Automatisation de tâches (RPA) |
+| **Environnement** | Linux (Debian), Git/GitHub, Suite Office (Excel avancé) |
 
 ---
 
-## 💼 Expérience & Leadership
+## 💻 Projets (Portfolio)
 
-**Micro-entrepreneur (Services & Paysagisme)** | *2024 – En cours*
-* **Type :** Création d'entreprise en parallèle du cycle préparatoire.
-* **Réalisation :** Validation de concept (POC) et génération immédiate de cash-flow (500€).
-* **Compétences :** Closing immédiat, cycle de vente complet, gestion administrative.
+### 🏎️ Opticars Calculator | *Algorithmique & Fullstack*
+Conception d'un comparateur automobile basé sur l'analyse de données techniques (Rapport Poids/Puissance, Grip).
+- **Technique :** Développement d'un algorithme de tri complexe et interface web.
+- **Stack :** Python (Flask), SQLite, HTML/CSS.
 
-**Ambassadeur EPITA**
-* Représentation institutionnelle.
+### 📈 Market Predictor | *Data Science & R&D*
+Développement d'un outil d'aide à la décision boursière couplant analyse technique et analyse de sentiment (News).
+- **Focus :** Traitement de flux de données et logique prédictive.
+
+### ⚙️ Suite d'Automatisation (Open Source)
+Développement de scripts personnels pour l'optimisation de l'interface homme-machine.
+- **Objectif :** Réduction du temps de traitement des tâches administratives et techniques.
+- **Dépôt :** [https://github.com/evaspace]
 
 ---
 
-## 🎓 Parcours & Formation
+## 💼 Expérience Professionnelle
 
-* **2025 - 2030 | EPITA (Lyon) :** Cycle Prépa Ingénieur.
-    * *Modules :* Algorithmique avancée, C, Python, Unix.
+### Fondateur & Gestionnaire | *Services & Paysagisme*
+*2024 – Aujourd'hui*
+Gestion d'une micro-entreprise en parallèle du cursus ingénieur.
+* **Commercial :** Prospection active, négociation client et fidélisation.
+* **Gestion :** Pilotage du chiffre d'affaires et optimisation logistique.
+* **Résultat :** Génération de revenus immédiate et validation du Business Model.
+
+### Ambassadeur EPITA | *Communication*
+Représentation institutionnelle de l'école lors d'événements officiels.
+
+---
+
+## 🎓 Formation
+
+* **2025 - 2030 | EPITA (Lyon) :** Cycle Préparatoire Ingénieur.
+    * *Majeures :* Algorithmique avancée, Programmation C/Python, Architecture système (Unix).
 * **2025 | Gymnasium Riedberg (Francfort, Allemagne) :** Mobilité Internationale.
-    * *Focus :* Adaptation en environnement multiculturel.
-* **2023 - 2025 | Baccalauréat Général :** Mathématiques - Informatique.
+    * *Acquis :* Capacité d'adaptation en environnement multiculturel et anglophone/germanophone.
+* **2023 - 2025 | Baccalauréat Général :** Spécialités Mathématiques & Informatique.
 
 ---
 
-## 🌍 Mobilité & Engagements
+## 🏆 Qualités & Engagements
 
-* **Expédition Solo (Géorgie) :** Gestion logistique et des risques en autonomie complète.
-* **Points de chute :** Lyon (La Sauvegarde), Villefranche, Morancé.
-* **Logistique :** Permis B (En validation), Mobilité urbaine autonome.
+**Sport de Haut Niveau (Rigueur & Résilience)**
+Pratique compétitive démontrant une capacité de travail intensive et une discipline stricte.
+* **Athlétisme :** Qualification Régionale (Sprint 200m : 22.77s).
+* **Force :** Calisthenics Élite (Tractions 1 bras), Powerlifting (Bench Press 100kg).
+
+**Autonomie & Logistique**
+* **Expédition Solo (Géorgie) :** Planification et gestion des risques en autonomie totale en milieu étranger.
+* **Mobilité :** Permis B (En cours), Mobile sur toute la région lyonnaise.
 
 ---
 
-## 📫 Me Contacter
-
-Ouvert aux opportunités techniques ou commerciales.
-
-* **Linktree :** [linktr.ee/PIERREFEU](https://linktr.ee/PIERREFEU)
+## 📫 Contact
+* **Portfolio/Liens :** [linktr.ee/PIERREFEU](https://linktr.ee/PIERREFEU)
 * **Email :** [morgan@pierref.eu](mailto:morgan@pierref.eu)
-* **LinkedIn :** [linkedin.com/in/morgan-pierrefeu](https://www.linkedin.com/in/morgan-pierrefeu)
+* **Tel :** +33 07 67 37 94 50
+
+---
