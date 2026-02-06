@@ -1,3 +1,6 @@
+<img width="1120" height="541" alt="20260206_103853" src="https://github.com/user-attachments/assets/40a1bf9d-b0ea-4fc9-87ed-a844dd9385bc" />
+
+
 # Morgan Pierrefeu
 
 > **Étudiant Ingénieur EPITA & Entrepreneur**
