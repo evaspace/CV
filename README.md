@@ -1,92 +1,89 @@
-
-![Screenshot_20260204_113745_Gallery](https://github.com/user-attachments/assets/e83fa565-0743-4992-a6be-75507f1dc10a)
-
 # Morgan Pierrefeu
 
-> **Étudiant Ingénieur (EPITA) & Développeur Python**
-> *Profil : Automatisation de processus & Efficacité opérationnelle.*
+> **Étudiant Ingénieur EPITA & Entrepreneur**
+> *Moteur : L'efficacité opérationnelle et l'automatisation des processus.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morgan-pierrefeu)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:morgan@pierref.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/TonPseudo)
 
 ---
 
-## 🎯 Objectif
-**Stage technique (6 semaines) | Juin – Août 2026**
-Disponibilité horaire étendue.
-Objectif : Intégrer une équipe technique (DSI, Innovation, Data) pour automatiser les tâches répétitives (Scripting/IA) et optimiser les workflows de données.
+## 🎯 Objectif : Stage Technique & Opérationnel
+**Disponibilité : Juin – Août 2026 (6 semaines) | Amplitude horaire maximale**
+Je cherche à intégrer une structure exigeante (type Tour Part-Dieu) pour apporter une valeur immédiate : automatisation de tâches administratives/data, scripting, et support aux équipes techniques.
+*Ma promesse : Apprendre vite, exécuter avec rigueur, délivrer des résultats.*
 
 ---
 
-## 🛠 Compétences Techniques
+## ⚡ Synthèse : Pourquoi moi ?
+Étudiant ingénieur passionné par l'optimisation. Là où d'autres voient des tâches répétitives, je vois des opportunités d'automatisation (Python/IA). Ma double casquette (Technique + Entrepreneur) et ma pratique sportive de haut niveau garantissent une **résilience** et une **capacité de travail** (10h+/jour) adaptées aux environnements sous tension (Banque, Industrie 4.0, Conseil).
 
-| Domaine | Technologies & Outils |
+---
+
+## 🛠 Compétences "Ready-to-Deploy"
+
+| Pôle | Outils & Savoir-faire |
 | :--- | :--- |
-| **Développement** | **Python** (Flask, Selenium, Pandas), C, Bash |
-| **Data & BDD** | SQL (MySQL/SQLite), Web Scraping, Analyse de données |
-| **IA & Productivité** | **Prompt Engineering Avancé** (Optimisation LLM), Automatisation de tâches (RPA) |
-| **Environnement** | Linux (Debian), Git/GitHub, Suite Office (Excel avancé) |
+| **Automatisation (RPA)** | **Python** (Scripts, Pandas, Selenium), Bash. *Capacité à créer des outils pour gagner du temps.* |
+| **Data & Analyse** | SQL, Excel Avancé (VBA/Macros), Web Scraping (Récupération de données structurées). |
+| **IA Appliquée** | **Prompt Engineering** (Utilisation avancée des LLM pour accélérer le code et la rédaction). |
+| **Environnement** | Linux (Debian/Ubuntu), Git, C (Notions bas niveau). |
 
 ---
 
-## 💻 Projets (Portfolio)
+## 💻 Projets (Preuves d'Efficacité)
 
-### 🏎️ Opticars Calculator | *Algorithmique & Fullstack*
-Conception d'un comparateur automobile basé sur l'analyse de données techniques (Rapport Poids/Puissance, Grip).
-- **Technique :** Développement d'un algorithme de tri complexe et interface web.
-- **Stack :** Python (Flask), SQLite, HTML/CSS.
+### 🏎️ Opticars Calculator | *Algorithmique & Logique*
+*Contexte : Optimiser le choix d'un véhicule par la donnée technique.*
+* Développement d'un algorithme de tri multicritères (Rapport Poids/Puissance).
+* **Compétence démontrée :** Capacité à transformer des données brutes en outil décisionnel.
+* **Stack :** Python (Flask), SQLite.
 
-### 📈 Market Predictor | *Data Science & R&D*
-Développement d'un outil d'aide à la décision boursière couplant analyse technique et analyse de sentiment (News).
-- **Focus :** Traitement de flux de données et logique prédictive.
+### 📈 Market Data Tools | *Finance & Data*
+*Contexte : Projet personnel d'analyse de marché.*
+* Agrégation de flux de données (News + Cours) pour détection de tendances.
+* **Compétence démontrée :** Gestion de flux de données et rigueur analytique (Intérêt pour le secteur bancaire/assurance).
 
-### ⚙️ Suite d'Automatisation (Open Source)
-Développement de scripts personnels pour l'optimisation de l'interface homme-machine.
-- **Objectif :** Réduction du temps de traitement des tâches administratives et techniques.
-- **Dépôt :** [https://github.com/evaspace]
+### ⚙️ "Workstation Optimizer" | *Scripting*
+* Création d'une suite de scripts pour automatiser la configuration de l'environnement de travail et les tâches récurrentes.
+* **Philosophie :** "Si je dois le faire trois fois, je l'automatise."
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Expérience & Business Sense
 
-### Fondateur & Gestionnaire | *Services & Paysagisme*
-*2024 – Aujourd'hui*
-Gestion d'une micro-entreprise en parallèle du cursus ingénieur.
-* **Commercial :** Prospection active, négociation client et fidélisation.
-* **Gestion :** Pilotage du chiffre d'affaires et optimisation logistique.
-* **Résultat :** Génération de revenus immédiate et validation du Business Model.
+**Micro-entrepreneur (Services)** | *2024 – Présent*
+*Gestion autonome d'une activité de services en parallèle de la Prépa.*
+* **Réalité terrain :** Prospection, négociation, satisfaction client et facturation.
+* **Résultat :** Génération de chiffre d'affaires immédiat. Démontre ma capacité à comprendre les impératifs économiques d'une entreprise (Cash-flow, ROI).
 
-### Ambassadeur EPITA | *Communication*
-Représentation institutionnelle de l'école lors d'événements officiels.
+**Ambassadeur EPITA**
+* Représentation de l'école. Développement de l'aisance relationnelle en milieu institutionnel.
 
 ---
 
 ## 🎓 Formation
 
-* **2025 - 2030 | EPITA (Lyon) :** Cycle Préparatoire Ingénieur.
-    * *Majeures :* Algorithmique avancée, Programmation C/Python, Architecture système (Unix).
-* **2025 | Gymnasium Riedberg (Francfort, Allemagne) :** Mobilité Internationale.
-    * *Acquis :* Capacité d'adaptation en environnement multiculturel et anglophone/germanophone.
-* **2023 - 2025 | Baccalauréat Général :** Spécialités Mathématiques & Informatique.
+* **2025 - 2030 | EPITA (Lyon)** : Cycle Préparatoire Ingénieur.
+    * *Focus :* Algorithmique, C, Unix. La "Piscine" EPITA m'a formé au travail intensif et à la résolution de problèmes sous pression.
+* **2025 | Immersion Internationale (Francfort)** : Adaptabilité culturelle.
 
 ---
 
-## 🏆 Qualités & Engagements
+## 🏆 Mindset & Discipline (Soft Skills)
 
-**Sport de Haut Niveau (Rigueur & Résilience)**
-Pratique compétitive démontrant une capacité de travail intensive et une discipline stricte.
-* **Athlétisme :** Qualification Régionale (Sprint 200m : 22.77s).
-* **Force :** Calisthenics Élite (Tractions 1 bras), Powerlifting (Bench Press 100kg).
+**Sport de Haute Intensité**
+*Ma pratique sportive n'est pas un loisir, c'est la structure de ma discipline professionnelle.*
+* **Athlétisme (Sprint) & Powerlifting :** Recherche constante de la performance mesurable (22.77s au 200m).
+* **Mental :** Habitué à l'effort long et à la critique constructive pour progresser.
 
-**Autonomie & Logistique**
-* **Expédition Solo (Géorgie) :** Planification et gestion des risques en autonomie totale en milieu étranger.
-* **Mobilité :** Permis B (En cours), Mobile sur toute la région lyonnaise.
+**Autonomie**
+* **Expédition Solo (Géorgie) :** Gestion logistique complète en environnement inconnu.
 
 ---
 
 ## 📫 Contact
-* **Portfolio/Liens :** [linktr.ee/PIERREFEU](https://linktr.ee/PIERREFEU)
-* **Email :** [morgan@pierref.eu](mailto:morgan@pierref.eu)
 * **Tel :** +33 07 67 37 94 50
-
----
+* **Email :** [morgan@pierref.eu](mailto:morgan@pierref.eu)
+* **LinkedIn :** [linkedin.com/in/morgan-pierrefeu](https://www.linkedin.com/in/morgan-pierrefeu)
