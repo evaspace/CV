@@ -12,15 +12,22 @@
 
 ---
 
-## 🎯 Objectif : Stage Technique & Opérationnel
-**Disponibilité : Juin – Août 2026 (6 semaines) | Amplitude horaire maximale**
-Je cherche à intégrer une structure exigeante (type Tour Part-Dieu) pour apporter une valeur immédiate : automatisation de tâches administratives/data, scripting, et support aux équipes techniques.
+## 🎯 Objectif : Renfort Opérationnel | Stage Technique & Opérationnel
+**Disponibilité : Juin – Août 2026 (6 semaines) | Mobilité horaire maximale**
+Je cherche à intégrer une structure exigeante (type Tour Part-Dieu/Oxygen/Sylex²/To-lyon) pour apporter une valeur immédiate : automatisation de tâches administratives/data, scripting, et support aux équipes techniques.
+**Statut Flexible :** Stage conventionné **OU** Prestation de service (Auto-entrepreneur) pour missions courtes et intensives.
 *Ma promesse : Apprendre vite, exécuter avec rigueur, délivrer des résultats.*
 
 ---
 
 ## ⚡ Synthèse : Pourquoi moi ?
 Étudiant ingénieur passionné par l'optimisation. Là où d'autres voient des tâches répétitives, je vois des opportunités d'automatisation (Python/IA). Ma double casquette (Technique + Entrepreneur) et ma pratique sportive de haut niveau garantissent une **résilience** et une **capacité de travail** (10h+/jour) adaptées aux environnements sous tension (Banque, Industrie 4.0, Conseil).
+Contrairement à un stagiaire classique qui demande de l'encadrement, je suis autonome et orienté résultats, je comprends vos impératifs de ROI et de délais. 
+Mon objectif est d'absorber votre surplus d'activité, que ce soit sur des tâches techniques (scripting, nettoyage de données) ou opérationnelles.
+Disponibilité totale : Flexible sur les horaires, prêt à s'investir pleinement pour boucler les livrables.
+Joiniable 24/h 6/j  : FLexibiliter totales sur le lieux de travail. 
+
+Statut : Disponible en Stage conventionné ou via mon statut d'Auto-entrepreneur (Facturation directe)
 
 ---
 
@@ -28,10 +35,10 @@ Je cherche à intégrer une structure exigeante (type Tour Part-Dieu) pour appor
 
 | Pôle | Outils & Savoir-faire |
 | :--- | :--- |
-| **Automatisation (RPA)** | **Python** (Scripts, Pandas, Selenium), Bash. *Capacité à créer des outils pour gagner du temps.* |
+| **Automatisation (RPA)** | **Python** (Scripts, Selenium), Bash. *Capacité à créer des outils pour gagner du temps.* |
 | **Data & Analyse** | SQL, Excel Avancé (VBA/Macros), Web Scraping (Récupération de données structurées). |
 | **IA Appliquée** | **Prompt Engineering** (Utilisation avancée des LLM pour accélérer le code et la rédaction). |
-| **Environnement** | Linux (Debian/Ubuntu), Git, C (Notions bas niveau). |
+| **Environnement** | Linux (Debian), Git, C (Notions bas niveau). |
 
 ---
 
@@ -43,11 +50,6 @@ Je cherche à intégrer une structure exigeante (type Tour Part-Dieu) pour appor
 * **Compétence démontrée :** Capacité à transformer des données brutes en outil décisionnel.
 * **Stack :** Python (Flask), SQLite.
 
-### 📈 Market Data Tools | *Finance & Data*
-*Contexte : Projet personnel d'analyse de marché.*
-* Agrégation de flux de données (News + Cours) pour détection de tendances.
-* **Compétence démontrée :** Gestion de flux de données et rigueur analytique (Intérêt pour le secteur bancaire/assurance).
-
 ### ⚙️ "Workstation Optimizer" | *Scripting*
 * Création d'une suite de scripts pour automatiser la configuration de l'environnement de travail et les tâches récurrentes.
 * **Philosophie :** "Si je dois le faire trois fois, je l'automatise."
@@ -56,32 +58,38 @@ Je cherche à intégrer une structure exigeante (type Tour Part-Dieu) pour appor
 
 ## 💼 Expérience & Business Sense
 
-**Micro-entrepreneur (Services)** | *2024 – Présent*
+**Micro-entrepreneur (Services)** | *Lyon| 2024 – Présent*
 *Gestion autonome d'une activité de services en parallèle de la Prépa.*
-* **Réalité terrain :** Prospection, négociation, satisfaction client et facturation.
-* **Résultat :** Génération de chiffre d'affaires immédiat. Démontre ma capacité à comprendre les impératifs économiques d'une entreprise (Cash-flow, ROI).
+* **Terrain :** Capacité à négocier et à closer des contrats en autonomie.
+* **Résultats :** Génération de chiffre d'affaires immédiat et gestion de la trésorerie.
+* **Compétence :** Compréhension des impératifs économiques (ROI, Délais, Satisfaction client).
 
 **Ambassadeur EPITA**
 * Représentation de l'école. Développement de l'aisance relationnelle en milieu institutionnel.
+
+**Représentant Élu & Responsabilités Institutionnelles** | *Lycée La Martinière Duchère*
+*Conseil d'Administration (CA) & CVL : Participation aux décisions stratégiques et au vote du budget de l'établissement.
+*Gestion des Risques : Membre actif de la Commission Hygiène et Sécurité (CHS).
+*Leadership : Organisation d'événements majeurs (Journées Citoyennes).
 
 ---
 
 ## 🎓 Formation
 
 * **2025 - 2030 | EPITA (Lyon)** : Cycle Préparatoire Ingénieur.
-    * *Focus :* Algorithmique, C, Unix. La "Piscine" EPITA m'a formé au travail intensif et à la résolution de problèmes sous pression.
-* **2025 | Immersion Internationale (Francfort)** : Adaptabilité culturelle.
+    * *Focus :* Algorithmique, C, Unix. Former au travail intensif et à la résolution de problèmes sous pression.
+* **2025 | Immersion Internationale (Francfort)** : Adaptabilité culturelle et linguistique (Anglais)
 
 ---
 
 ## 🏆 Mindset & Discipline (Soft Skills)
 
 **Sport de Haute Intensité**
-*Ma pratique sportive n'est pas un loisir, c'est la structure de ma discipline professionnelle.*
+*Ma pratique sportive structure ma discipline professionnelle.*
 * **Athlétisme (Sprint) & Powerlifting :** Recherche constante de la performance mesurable (22.77s au 200m).
 * **Mental :** Habitué à l'effort long et à la critique constructive pour progresser.
 
-**Autonomie**
+**Autonomie Totale **
 * **Expédition Solo (Géorgie) :** Gestion logistique complète en environnement inconnu.
 
 ---
