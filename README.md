@@ -88,7 +88,7 @@ Statut : Disponible en Stage conventionné ou via mon statut d'Auto-entrepreneur
 * **Athlétisme (Sprint) & Powerlifting :** Recherche constante de la performance mesurable (22.77s au 200m).
 * **Mental :** Habitué à l'effort long et à la critique constructive pour progresser.
 
-**Autonomie Totale **
+**Autonomie Totale**
 * **Expédition Solo (Géorgie) :** Gestion logistique complète en environnement inconnu.
 
 ---
