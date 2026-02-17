@@ -22,7 +22,7 @@ Je cherche à intégrer une structure exigeante à **Lyon** pour apporter une va
 
 ### ⚡ Ma Valeur Ajoutée
 * **Disponibilité Étendue :** Prêt à travailler sur un rythme intense (**6j/7** si nécessaire) pour respecter les délais critiques.
-* **Approche ROI :** Je conçois mes scripts et mes actions pour économiser du temps-homme immédiatement.
+* **Approche ROI :** Je conçois mes scripts et mes actions pour économiser du temps immédiatement.
 * **Double Casquette :** La rigueur de l'ingénieur (EPITA) + le pragmatisme du terrain (Entrepreneur).
 
 ---
