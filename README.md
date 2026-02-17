@@ -1,5 +1,4 @@
-<img width="1120" height="541" alt="20260206_103853" src="https://github.com/user-attachments/assets/40a1bf9d-b0ea-4fc9-87ed-a844dd9385bc" />
-
+<img width="1708" height="853" alt="image" src="https://github.com/user-attachments/assets/f5dafcc8-b93b-4f04-9073-b177bb282a1d" />
 
 # Morgan Pierrefeu
 
