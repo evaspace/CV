@@ -46,10 +46,13 @@ Je cherche à intégrer une structure exigeante à **Lyon** pour apporter une va
 * **Impact :** Automatisation du calcul de rentabilité sur une base de données de `1500` véhicules.
 * **Stack :** Python, SQLite, Jinja2, configuration de VPS.
   
-### ⚙️ "Workstation Optimizer" | *Scripting * 
+### ⚙️ "Workstation Optimizer" | *Scripting* 
 * **Réalisation :** Suite de scripts pour automatiser la configuration d'environnement de travail via le Terminale.
 * **Philosophie :** *"Si je dois le faire trois fois, je l'automatise."*
-
+### 🎮 Game Engine | *Travail d'Équipe (5 pers.)*
+* **Contexte** : Développement d'un jeu complet sur 1 an en autonomie totale.
+* **Mon Rôle** : Architecture des données et développement du site.
+* **Soft Skills** : Gestion de conflits techniques, Code Review et Git.
 ---
 
 ## 🎓 Formation
