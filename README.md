@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:morgan@pierref.eu)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/evaspace)
 [![Location](https://img.shields.io/badge/Location-Lyon__FR-green?style=flat&logo=google-maps)](https://maps.google.com/?q=Lyon,France)
+[![Website](https://img.shields.io/badge/Website-pierref.eu-black?style=flat&logo=github)](https://pierref.eu)
 
 ---
 
